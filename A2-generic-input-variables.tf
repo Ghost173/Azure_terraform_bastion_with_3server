@@ -17,7 +17,7 @@ variable "environment" {
 variable "resource_group_name" {
   description = "Resource Group Name"
   type = string
-  default = "rg-default"  
+  default = "rg-lb"  
 }
 
 # Azure Resources Location
